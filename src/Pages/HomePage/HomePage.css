@@ -1,0 +1,24 @@
+.negr{
+    width: 200px;
+    height: 200px;
+    background-image: url(./img/3.jpg);
+    background-size: cover;
+}
+.blandinka{
+    width: 200px;
+    height: 200px;
+    background-image: url(./img/2.jpg);
+    background-size: cover;
+}
+.brunetka{
+    width: 200px;
+    height: 200px;
+    background-image: url(./img/1.jpg);
+    background-size: cover;
+}
+.masin {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    text-align: center;
+}
